@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Fabian and
+### Hi there 👋. My name is Christian and
 
 - 🔭 I’m currently working on making machine learning and data science.
 - 🎓 You'll find all my publications in my [Google Scholar](https://scholar.google.com/citations?hl=it&tzom=-120&user=AO7VQ8EAAAAJ).
